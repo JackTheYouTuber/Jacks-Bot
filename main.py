@@ -15,5 +15,7 @@ async def Message_Events(event:hikari.events.GuildMessageCreateEvent):
     __Bot_Functions__.Log(Log_Text=Log_Text)
 
     # Bot Commands
+    Bot_Command = __Bot_Functions__.Command(message, message_author, message_channel_location)
+    bot.rest.create_message(content=message, channel=event.channel_id)    
 
 bot.run()
