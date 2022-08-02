@@ -1,0 +1,11 @@
+[2022:08:03:01:18:31 AM]
+Test
+
+[2022:08:03:01:22:02 AM]
+[Jack#1610] :> Nassd | [Channel(bot-test)]
+
+[2022:08:03:01:23:16 AM]
+[Jack#1610] :> hfsg | [Channel(bot-test)]
+
+[2022:08:03:01:25:39 AM]
+[Jack#1610] :> fse | [Channel(bot-test)]
