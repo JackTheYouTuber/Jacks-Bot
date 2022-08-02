@@ -9,3 +9,12 @@ Test
 
 [2022:08:03:01:25:39 AM]
 [Jack#1610] :> fse | [Channel(bot-test)]
+
+[2022:08:03:03:47:18 AM]
+[Jack#1610] :> !random | [Channel(bot-test)]
+
+[2022:08:03:03:52:02 AM]
+[Jack#1610] :> !random | [Channel(bot-test)]
+
+[2022:08:03:03:52:25 AM]
+[Jack#1610] :> !random | [Channel(bot-test)]
