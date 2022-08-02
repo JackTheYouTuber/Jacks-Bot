@@ -1,7 +1,7 @@
 import hikari
 from Cogs import __Bot_Functions__
 
-TOKEN = "ODkzODIyOTY3NTA5ODM5OTMy.G1199d.Ynquwq2skutSCNCsjDivsBwPrKAUYhvHZq3kb8"
+TOKEN = "Token"
 bot = hikari.GatewayBot(token=TOKEN)
 
 @bot.listen(hikari.GuildMessageCreateEvent)
